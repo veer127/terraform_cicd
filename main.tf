@@ -11,6 +11,6 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "demo" {
-  bucket = "aptemp-terraform-cicd-2026"
+  bucket = "new-aptemp-terraform-cicd-2026"
 
 }
